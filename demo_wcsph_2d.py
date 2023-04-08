@@ -40,7 +40,7 @@ if __name__ == "__main__":
         gui.circles(particle_info['position'] * ps.screen_to_world_ratio / 512,
                     radius=ps.particle_radius / 1.5 * ps.screen_to_world_ratio,
                     color=0x068587)
-        filename = f'frame/{cnt:04d}.png'
-        print(f'Frame {cnt} is recorded in {filename}')
-        gui.show(filename)
-        # gui.show()
+        # filename = f'frame/{cnt:04d}.png'
+        # print(f'Frame {cnt} is recorded in {filename}')
+        # gui.show(filename)
+        gui.show()
