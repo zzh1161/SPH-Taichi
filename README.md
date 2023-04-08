@@ -6,4 +6,6 @@ Weekly Compressible SPH has been implemented. Other SPH methods like IISPH, DFSP
 
 + WCSPH
 
-  ![](video/demo_wcsph_2d.gif)
+  <div align=center> <img src="video/demo_wcsph_2d.gif"></div>
+  
+  
